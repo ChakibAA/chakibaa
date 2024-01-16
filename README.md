@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Chakib Ammar Aouchiche
 
-Experienced Mobile Developer with a strong passion for creating high-quality mobile applications. With 3 years of hands-on experience, I have developed a deep understanding of Flutter's framework and its ecosystem. My expertise lies in developing intuitive user interfaces, integrating API services, and optimizing app performance. I am skilled in collaborating with cross-functional teams to deliver exceptional products that meet client requirements Committed to staying up-to-date with the latest industry trends and technologies, I consistently strive for excellence in every project.
+Experienced Software Engineer specializing in Flutter and WordPress with a proven track record of success over 4 years. Proficient in leveraging the Flutter framework to create seamless mobile applications and adept at WordPress development for web solutions. Demonstrated expertise in crafting intuitive user interfaces, integrating API services, and optimizing overall application performance. Successful collaboration with cross-functional teams to deliver high-quality products that align with client requirements. Dedicated to continuous learning and staying abreast of the latest industry trends and technologies. Committed to excellence in software development, with a strong passion for delivering exceptional solutions.
 
 ## What I Do
 👨‍💻 Here's what fuels my passion:
