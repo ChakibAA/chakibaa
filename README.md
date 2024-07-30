@@ -8,8 +8,8 @@ Experienced Software Engineer specializing in Flutter and WordPress with a prove
 ### Flutter Development
 I specialize in crafting dynamic, cross-platform mobile applications using Flutter. From conceptualization to implementation, I love building immersive user experiences and ensuring seamless functionality across devices.
 
-### WordPress Expertise
-With WordPress, I thrive in creating tailored, scalable websites that meet diverse client needs. Customization, performance optimization, and intuitive UI/UX design are at the core of my WordPress development approach.
+### PHP Expertise
+With PHP, I thrive in creating tailored, scalable websites that meet diverse client needs. Customization, performance optimization, and intuitive UI/UX design are at the core of my WordPress development approach.
 
 ### Continuous Learning
 I'm committed to staying at the forefront of technology. I'm constantly exploring new tools and frameworks to expand my skill set, embracing innovation to deliver high-quality solutions.
