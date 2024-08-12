@@ -16,7 +16,7 @@ Whether it's transforming ideas into sleek mobile apps or architecting feature-r
 
 ## Get in Touch
 📫 You can reach me via:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/chakibaa)
-- Email: [Your Email Address](mailto:dev.chakibaa@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chakibaa)
+- Email: [Email Address](mailto:dev.chakibaa@gmail.com)
 
 Feel free to explore my repositories below and don't hesitate to reach out!
